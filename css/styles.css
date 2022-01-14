@@ -29,8 +29,7 @@ p {
   padding: 7% 15%;
 }
 
-/* nav bar */
-
+/* start of nav bar styling */
 .navbar {
   padding: 0 0 4.5rem;
 }
@@ -48,6 +47,13 @@ p {
   font-size: 1.2rem;
   font-family: "Montserrat";
 }
+/* end of nav bar styling */
+
+/* start of button styling */
+.download-button {
+  margin: 10% 7% 7% 0;
+}
+/* end of button styling */
 
 #title {
   background-color: #4267B2;
