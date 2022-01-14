@@ -1,13 +1,47 @@
-body, h1, h2, h3, h4, h5, h6 {
+body, h2, h3, h4, h5, h6 {
   font-family: "Montserrat";
   text-align: center;
+}
+
+h1 {
+  font-family: "Montserrat";
+  text-align: center;
+  font-weight: bold;
 }
 
 p {
   color: #8f8f8f;
 }
 
-.home-theme {
+.blue {
   background-color: #4267B2;
-  color: #fff;
+  color: white;
+}
+
+.white {
+  background-color: white;
+}
+
+.container-fluid{
+  padding: 7% 15%;
+}
+
+/* nav bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
 }
