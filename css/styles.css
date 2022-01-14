@@ -4,12 +4,10 @@ body, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-family: "Montserrat";
-  font-size: 3.5rem;
+  font-size: 4rem;
   font-weight: bold;
   line-height: 1.5;
   text-align: left;
-
 }
 
 p {
@@ -34,18 +32,17 @@ p {
   padding: 0 0 4.5rem;
 }
 
-.navbar-title {
+.brand {
   font-size: 2.5rem;
   font-weight: bold;
 }
 
 .nav-item {
-  padding: 0 18px;
+  padding: 0 20px;
 }
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat";
 }
 /* end of nav bar styling */
 
@@ -54,6 +51,13 @@ p {
   margin: 10% 7% 7% 0;
 }
 /* end of button styling */
+
+/* start of phone styling */
+.phone-image {
+  width: 70%;
+  transform: rotate(25deg);
+}
+/* end of phone styling */
 
 #title {
   background-color: #4267B2;
