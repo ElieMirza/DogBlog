@@ -68,3 +68,19 @@ p {
 #title .container-fluid {
   padding: 3% 15% 7%;
 }
+
+/* start of features styling */
+.feature {
+  padding: 5%;
+}
+
+.icon {
+  color: #4267B2;
+  margin-bottom: 1.2rem;
+}
+
+.feature-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+/* end of info styling */
