@@ -113,3 +113,16 @@ p {
   margin: 0 30px;
 }
 /* end of press styling */
+
+/* start of pricing card styling */
+#price-cards {
+  padding: 10%
+}
+
+.price-tier {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+
+/* end of price card styling */
