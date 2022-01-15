@@ -23,7 +23,7 @@ p {
   background-color: white;
 }
 
-.container-fluid{
+.container-fluid {
   padding: 7% 15%;
 }
 
@@ -43,15 +43,16 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
+  font-weight: bold;
 }
-/* end of nav bar styling */
 
+/* end of nav bar styling */
 /* start of button styling */
 .download-button {
   margin: 5% 5% 10% 0;
 }
-/* end of button styling */
 
+/* end of button styling */
 /* start of phone styling */
 .phone-image {
   width: 28%;
@@ -63,8 +64,8 @@ p {
 #features {
   position: relative;
 }
-/* end of phone styling */
 
+/* end of phone styling */
 #title {
   background-color: #4267B2;
   color: white;
@@ -89,8 +90,8 @@ p {
   font-size: 1.5rem;
   font-weight: bold;
 }
-/* end of info styling */
 
+/* end of info styling */
 /* start of testimonials styling */
 #testimonials {
   padding: 3% 15%;
@@ -106,8 +107,8 @@ p {
   width: 10%;
   margin: 5%;
 }
-/* end of testimonials styling */
 
+/* end of testimonials styling */
 /* start of press styling */
 #press {
   background-color: #4267B2;
@@ -118,8 +119,8 @@ p {
   width: 15%;
   margin: 0 30px;
 }
-/* end of press styling */
 
+/* end of press styling */
 /* start of pricing card styling */
 #price-cards {
   padding: 10%
@@ -129,22 +130,23 @@ p {
   font-size: 2.5rem;
   font-weight: bold;
 }
-/* end of price card styling */
 
+/* end of price card styling */
 /* start of cta styling */
 .large-text {
   padding-top: 100px;
   font-weight: bold;
   font-size: 4rem;
 }
-/* end of cta styling */
 
+/* end of cta styling */
 /* start of footer styling */
 .social-icon {
-  
+  margin: 20px;
+  font-size: 2rem;
 }
-/* end of footer styling */
 
+/* end of footer styling */
 @media (max-width: 990px) {
   #title {
     text-align: center;
