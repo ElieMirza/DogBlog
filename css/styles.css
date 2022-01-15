@@ -84,3 +84,32 @@ p {
   font-weight: bold;
 }
 /* end of info styling */
+
+/* start of testimonials styling */
+#testimonials {
+  padding: 3% 15%;
+}
+
+.testimonial {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.tes-image {
+  border-radius: 100%;
+  width: 10%;
+  margin: 5%;
+}
+/* end of testimonials styling */
+
+/* start of press styling */
+#press {
+  background-color: #4267B2;
+  padding-bottom: 5%;
+}
+
+.press-image {
+  width: 15%;
+  margin: 0 30px;
+}
+/* end of press styling */
