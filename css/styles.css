@@ -131,6 +131,14 @@ p {
 }
 /* end of price card styling */
 
+/* start of cta styling */
+.large-text {
+  padding-top: 50px;
+  font-weight: bold;
+  font-size: 4rem;
+}
+/* start of cta styling */
+
 @media (max-width: 990px) {
   #title {
     text-align: center;
