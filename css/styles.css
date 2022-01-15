@@ -48,7 +48,7 @@ p {
 
 /* start of button styling */
 .download-button {
-  margin: 10% 7% 7% 0;
+  margin: 5% 5% 10% 0;
 }
 /* end of button styling */
 
@@ -133,11 +133,17 @@ p {
 
 /* start of cta styling */
 .large-text {
-  padding-top: 50px;
+  padding-top: 100px;
   font-weight: bold;
   font-size: 4rem;
 }
-/* start of cta styling */
+/* end of cta styling */
+
+/* start of footer styling */
+.social-icon {
+  
+}
+/* end of footer styling */
 
 @media (max-width: 990px) {
   #title {
